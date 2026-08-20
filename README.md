@@ -1,98 +1,93 @@
-# Hi, I'm Nilesh Singh 👋
+# Hi, I'm Nilesh 👋  
+### Aspiring Software Engineer (Fresher) | Full-Stack Developer | Problem Solver
 
-### 🚀 Aspiring Software Engineer | Full Stack Developer
+I am a fresher passionate about building real-world software products and continuously improving my DSA, development, and system design skills.  
+I enjoy creating clean, user-focused applications and learning modern engineering practices.
 
-I build practical, user-focused web applications with clean architecture and scalable backend systems.  
-I enjoy solving real-world problems through code and continuously improving through projects and DSA.
-
-- 🌍 Location: **India**
-- 💼 Open to: **Full-time roles | Internship opportunities**
-- 🎯 Target Role: **Software Development Engineer (SDE-1) / Full Stack Developer**
-- 📫 Email: **nilesh.singh7829@gmail.com**
-- 💼 LinkedIn: **[nileshsingh98](https://www.linkedin.com/in/nileshsingh98)**
-- 🔗 Codolio: **[nilesh_98](https://codolio.com/profile/nilesh_98)**
+- 🎯 Target Role: **Software Engineer / Full-Stack Developer / Backend Developer (Entry-Level)**
+- 🌱 Currently Learning: **Advanced DSA, System Design fundamentals, Cloud basics**
+- 💻 Focus Areas: **Web Development, APIs, Databases, Clean Code**
+- 🤝 Open to: **Internships | Entry-level roles | Freelance opportunities**
+- 📫 Reach me: **nilesh.singh7829@gmail.com**
 
 ---
 
-## 🧠 About Me
+## 🚀 Tech Stack
 
-- Strong foundation in **Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networks**
-- Experience building full-stack apps with modern frontend and backend technologies
-- Focused on **clean, maintainable, and production-ready code**
-- Actively looking to contribute to impactful engineering teams
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-`JavaScript` `TypeScript` `Python` `Java` `C++`
-
-**Frontend**  
-`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
-
-**Backend**  
-`Node.js` `Express.js` `REST APIs` `JWT Authentication`
-
-**Databases**  
-`MongoDB` `MySQL` `PostgreSQL`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Postman` `Docker` `Vercel` `Netlify` `Render`
+**Languages:** JavaScript, TypeScript, Python, Java, C++  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools & Platforms:** Git, GitHub, Postman, VS Code, Docker (Basics), GitHub Actions (Basics)
 
 ---
 
 ## 📌 Featured Projects
 
-### ✈️ Flight & Travel Planner
-A travel planning platform to search, organize, and manage trip details with a smooth user experience.
+> Replace these placeholders with your actual best projects.
 
-**Highlights**
-- Designed an end-to-end flow for planning trips and organizing travel details
-- Built responsive UI and modular components for better usability
-- Developed backend APIs for data handling and integration-ready architecture
-- Structured the app for scalability and future feature additions
+### 1) Project Name
+- **What it does:** Short problem statement and solution.
+- **Tech:** React, Node.js, MongoDB
+- **Impact:** Example: Improved task tracking flow and reduced manual effort.
+- **Links:** [Repository](https://github.com/nilesh0002/project-1) | [Live Demo](https://your-demo-link.com)
 
-**Tech Stack**  
-`React` `Node.js` `Express.js` `MongoDB` *(update if different)*
+### 2) Project Name
+- **What it does:** Short problem statement and solution.
+- **Tech:** Next.js, Express, PostgreSQL
+- **Impact:** Example: Faster search/filter experience for users.
+- **Links:** [Repository](https://github.com/nilesh0002/project-2) | [Live Demo](https://your-demo-link.com)
 
-**Links**  
-- Live Demo: **[Add Deployment Link]**
-- Repository: **[Add Repo Link for Flight & Travel Planner]**
+### 3) Project Name
+- **What it does:** Short problem statement and solution.
+- **Tech:** JavaScript, APIs, Tailwind
+- **Impact:** Example: Automated a repetitive workflow.
+- **Links:** [Repository](https://github.com/nilesh0002/project-3)
 
 ---
 
-## 🏆 Achievements
+## 🧠 DSA & Problem Solving
 
-- Solved **DSA problems** regularly across coding platforms
-- Built and deployed multiple development projects
-- Continuously improving through hands-on engineering practice
+- Practicing data structures and algorithms regularly
+- Strong interest in writing optimized and readable solutions
+- Actively improving problem-solving speed and interview readiness
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilesh0002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=nilesh0002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh0002&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilesh0002&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh0002&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nilesh0002&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Let’s Connect
+## 🎓 Education
 
-- 📧 Email: **nilesh.singh7829@gmail.com**
-- 💼 LinkedIn: **[www.linkedin.com/in/nileshsingh98](https://www.linkedin.com/in/nileshsingh98)**
-- 🧩 Codolio: **[codolio.com/profile/nilesh_98](https://codolio.com/profile/nilesh_98)**
+**B.Tech / BE / Degree Name**  
+College Name, Graduation Year  
+(You can add CGPA if it is good)
 
 ---
 
-### 💬 Recruiter Note
+## 🏅 Certifications (Optional)
 
-I’m actively seeking opportunities where I can contribute to real product development, write high-quality code, and grow with a strong engineering team.
+- Certification Name — Platform Name
+- Certification Name — Platform Name
 
-If my profile matches your requirements, I’d love to connect.
+---
+
+## 💼 Looking For
+
+I am currently looking for:
+- **Software Engineer Internships**
+- **Entry-Level Developer Roles**
+- Opportunities to contribute to impactful products and grow with strong engineering teams.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nileshsingh98/
+- Portfolio: https://nilesh98.vercel.app/
+- Email: nilesh.singh7829@gmail.com
